@@ -1,6 +1,6 @@
 import Foundation
 
-func testClogure() {
+func testClosure() {
   
     var string = "ObjC"
     
@@ -15,7 +15,7 @@ func testClogure() {
     code()
 }
 
-func testClogure2() {
+func testClosure2() {
     
     var string = "ObjC"
     
@@ -31,5 +31,5 @@ func testClogure2() {
 }
 
 
-testClogure()
-testClogure2()
+testClosure()
+testClosure2()
